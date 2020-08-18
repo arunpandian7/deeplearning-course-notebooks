@@ -1,0 +1,17 @@
+**/.ipynb_checkpoints
+
+**/__pycache__
+
+*.pyc
+
+Convolutional Neural Networks/Car detection for Autonomous Driving/yad2k
+
+Convolutional Neural Networks/Car detection for Autonomous Driving/model_data
+
+Convolutional Neural Networks/Face Recognition/weights
+
+Convolutional Neural Networks/Face Recognition/nn4.small2.v7.h5
+
+Convolutional Neural Networks/ResNets/ResNet50.h5
+
+Convolutional Neural Networks/Neural Style Transfer/pretrained-model
